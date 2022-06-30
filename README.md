@@ -1,8 +1,7 @@
 ### Olá, Mundo! Eu sou o João Vianna 👋
 
-- 🔭 Hoje eu estudo desenvolvimento front-end
 - 🌱 Estudando HTML + CSS + JS
-- 📫 Você entrar em contato comigo através do e-mail: viannafe@yahoo.com
+- 📫 Você pode entrar em contato comigo através do e-mail: viannafe@yahoo.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Berserk é o melhor mangá do mundo.
 
