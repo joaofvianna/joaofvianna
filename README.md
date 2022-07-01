@@ -2,8 +2,6 @@
 
 - 🌱 Estudando HTML + CSS + JS
 - 📫 Você pode entrar em contato comigo através do e-mail: viannafe@yahoo.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Berserk é o melhor mangá do mundo.
 
 <div align="center">
   <a href="https://github.com/joaofvianna">
